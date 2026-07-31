@@ -35,4 +35,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ketansaini-io/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/ketansaini-io/LeetCode/tree/main/0231-power-of-two/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/ketansaini-io/LeetCode/tree/main/0231-power-of-two/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/ketansaini-io/LeetCode/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
