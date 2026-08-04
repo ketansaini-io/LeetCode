@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ketansaini-io/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ketansaini-io/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3731-find-missing-elements](https://github.com/ketansaini-io/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
@@ -65,4 +66,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ketansaini-io/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ketansaini-io/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
