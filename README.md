@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ketansaini-io/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ketansaini-io/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -70,4 +71,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ketansaini-io/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ketansaini-io/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ketansaini-io/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ketansaini-io/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ketansaini-io/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ketansaini-io/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
