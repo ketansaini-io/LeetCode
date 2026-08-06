@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/ketansaini-io/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/ketansaini-io/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ketansaini-io/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ketansaini-io/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,4 +109,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/ketansaini-io/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ketansaini-io/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
