@@ -17,7 +17,7 @@ class Solution {
 
     }
     public int dis(int [][] points,int i){
-         int ans=(int)Math.pow(points[i][0],2)+(int)Math.pow(points[i][1],2);
+         int ans=(int)((points[i][0])*(points[i][0]))+(int)((points[i][1])*(points[i][1]));
          return ans;
     }
     public static int[][] merge(int [][] arr){
