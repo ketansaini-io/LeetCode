@@ -15,9 +15,5 @@ class Solution {
         }
         return nums.length-ans;
     }
-    public void shift(int[] nums, int s){
-        for(int i=s;i<nums.length-1;i++){
-            nums[i]=nums[i+1];
-        }
-    }
+   
 }
