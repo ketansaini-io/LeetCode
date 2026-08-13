@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/ketansaini-io/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/ketansaini-io/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ketansaini-io/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/ketansaini-io/LeetCode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2592-maximize-greatness-of-an-array](https://github.com/ketansaini-io/LeetCode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [3731-find-missing-elements](https://github.com/ketansaini-io/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/ketansaini-io/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/ketansaini-io/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ketansaini-io/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/ketansaini-io/LeetCode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2592-maximize-greatness-of-an-array](https://github.com/ketansaini-io/LeetCode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [3731-find-missing-elements](https://github.com/ketansaini-io/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Heap (Priority Queue)
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/ketansaini-io/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/ketansaini-io/LeetCode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
