@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ketansaini-io/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/ketansaini-io/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/ketansaini-io/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/ketansaini-io/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ketansaini-io/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0268-missing-number](https://github.com/ketansaini-io/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ketansaini-io/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ketansaini-io/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
