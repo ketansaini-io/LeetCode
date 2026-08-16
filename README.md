@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/ketansaini-io/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/ketansaini-io/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/ketansaini-io/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0046-permutations](https://github.com/ketansaini-io/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0056-merge-intervals](https://github.com/ketansaini-io/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0078-subsets](https://github.com/ketansaini-io/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0268-missing-number](https://github.com/ketansaini-io/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -175,5 +176,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/ketansaini-io/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/ketansaini-io/LeetCode/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
