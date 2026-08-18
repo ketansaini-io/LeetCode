@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/ketansaini-io/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ketansaini-io/LeetCode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2592-maximize-greatness-of-an-array](https://github.com/ketansaini-io/LeetCode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ketansaini-io/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/ketansaini-io/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/ketansaini-io/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ketansaini-io/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ketansaini-io/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ketansaini-io/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/ketansaini-io/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
