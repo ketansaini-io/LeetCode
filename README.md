@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/ketansaini-io/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ketansaini-io/LeetCode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ketansaini-io/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ketansaini-io/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
