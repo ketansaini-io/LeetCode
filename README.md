@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ketansaini-io/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ketansaini-io/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0709-to-lower-case](https://github.com/ketansaini-io/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ketansaini-io/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ketansaini-io/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Simulation
