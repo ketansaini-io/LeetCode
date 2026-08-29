@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ketansaini-io/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ketansaini-io/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ketansaini-io/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0169-majority-element](https://github.com/ketansaini-io/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/ketansaini-io/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ketansaini-io/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ketansaini-io/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/ketansaini-io/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ketansaini-io/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ketansaini-io/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ketansaini-io/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ketansaini-io/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Backtracking
