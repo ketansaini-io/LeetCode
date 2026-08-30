@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/ketansaini-io/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ketansaini-io/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ketansaini-io/LeetCode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ketansaini-io/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/ketansaini-io/LeetCode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ketansaini-io/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ketansaini-io/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ketansaini-io/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0881-boats-to-save-people](https://github.com/ketansaini-io/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ketansaini-io/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/ketansaini-io/LeetCode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
