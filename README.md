@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/ketansaini-io/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/ketansaini-io/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ketansaini-io/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0494-target-sum](https://github.com/ketansaini-io/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ketansaini-io/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0881-boats-to-save-people](https://github.com/ketansaini-io/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/ketansaini-io/LeetCode/tree/main/0912-sort-an-array/) | Medium |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/ketansaini-io/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/ketansaini-io/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/ketansaini-io/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0494-target-sum](https://github.com/ketansaini-io/LeetCode/tree/main/0494-target-sum/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,8 +219,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ketansaini-io/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0494-target-sum](https://github.com/ketansaini-io/LeetCode/tree/main/0494-target-sum/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ketansaini-io/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/ketansaini-io/LeetCode/tree/main/0494-target-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/ketansaini-io/LeetCode/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
