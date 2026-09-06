@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/ketansaini-io/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/ketansaini-io/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ketansaini-io/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ketansaini-io/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ketansaini-io/LeetCode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ketansaini-io/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/ketansaini-io/LeetCode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/ketansaini-io/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/ketansaini-io/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/ketansaini-io/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ketansaini-io/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ketansaini-io/LeetCode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2592-maximize-greatness-of-an-array](https://github.com/ketansaini-io/LeetCode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 | [3731-find-missing-elements](https://github.com/ketansaini-io/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/ketansaini-io/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/ketansaini-io/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ketansaini-io/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ketansaini-io/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ketansaini-io/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0881-boats-to-save-people](https://github.com/ketansaini-io/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ketansaini-io/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ketansaini-io/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/ketansaini-io/LeetCode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 ## Timsort
@@ -208,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ketansaini-io/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ketansaini-io/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ketansaini-io/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ketansaini-io/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Backtracking
@@ -243,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ketansaini-io/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/ketansaini-io/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ketansaini-io/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 <!---LeetCode Topics End-->
