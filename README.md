@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/ketansaini-io/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/ketansaini-io/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ketansaini-io/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0567-permutation-in-string](https://github.com/ketansaini-io/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ketansaini-io/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ketansaini-io/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ketansaini-io/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ketansaini-io/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/ketansaini-io/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ketansaini-io/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/ketansaini-io/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0709-to-lower-case](https://github.com/ketansaini-io/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ketansaini-io/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ketansaini-io/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/ketansaini-io/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ketansaini-io/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/ketansaini-io/LeetCode/tree/main/0031-next-permutation/) | Medium |
+| [0567-permutation-in-string](https://github.com/ketansaini-io/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/ketansaini-io/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/ketansaini-io/LeetCode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
 ## String Matching
@@ -212,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ketansaini-io/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0567-permutation-in-string](https://github.com/ketansaini-io/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ketansaini-io/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ketansaini-io/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ketansaini-io/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
