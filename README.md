@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/ketansaini-io/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/ketansaini-io/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ketansaini-io/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/ketansaini-io/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ketansaini-io/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/ketansaini-io/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ketansaini-io/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ketansaini-io/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/ketansaini-io/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ketansaini-io/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/ketansaini-io/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ketansaini-io/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/ketansaini-io/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0709-to-lower-case](https://github.com/ketansaini-io/LeetCode/tree/main/0709-to-lower-case/) | Easy |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ketansaini-io/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/ketansaini-io/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ketansaini-io/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/ketansaini-io/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ketansaini-io/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
