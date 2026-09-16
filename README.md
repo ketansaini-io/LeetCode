@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/ketansaini-io/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0078-subsets](https://github.com/ketansaini-io/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0169-majority-element](https://github.com/ketansaini-io/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/ketansaini-io/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ketansaini-io/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/ketansaini-io/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ketansaini-io/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/ketansaini-io/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/ketansaini-io/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/ketansaini-io/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/ketansaini-io/LeetCode/tree/main/0326-power-of-three/) | Easy |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/ketansaini-io/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ketansaini-io/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/ketansaini-io/LeetCode/tree/main/0031-next-permutation/) | Medium |
+| [0189-rotate-array](https://github.com/ketansaini-io/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/ketansaini-io/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/ketansaini-io/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [2592-maximize-greatness-of-an-array](https://github.com/ketansaini-io/LeetCode/tree/main/2592-maximize-greatness-of-an-array/) | Medium |
