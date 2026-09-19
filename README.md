@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ketansaini-io/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0041-first-missing-positive](https://github.com/ketansaini-io/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/ketansaini-io/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/ketansaini-io/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ketansaini-io/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ketansaini-io/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/ketansaini-io/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/ketansaini-io/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0169-majority-element](https://github.com/ketansaini-io/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/ketansaini-io/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ketansaini-io/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/ketansaini-io/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0881-boats-to-save-people](https://github.com/ketansaini-io/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/ketansaini-io/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ketansaini-io/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/ketansaini-io/LeetCode/tree/main/0038-count-and-say/) | Medium |
+| [0242-valid-anagram](https://github.com/ketansaini-io/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/ketansaini-io/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ketansaini-io/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/ketansaini-io/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
