@@ -1,13 +1,13 @@
 class Solution {
     public int[][] generateMatrix(int n) {
         int [][]ans= new int[n][n];
+         ans[0][0]=1;
         boolean row=false;
         boolean col=true;
         int dirr=1;
         int dirc=1;
         int r=0;
         int c=0;
-        ans[0][0]=1;
         int i=2;
         int ra=0;
         int ca=n;
