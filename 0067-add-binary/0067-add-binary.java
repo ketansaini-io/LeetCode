@@ -17,25 +17,30 @@ class Solution {
         int i=asb.length()-1;
         while(i>=0){
             if(c+(asb.charAt(i)-'0')+(bsb.charAt(i)-'0')>2){
-                sb.insert(0,1);
+                sb.append(1);
                 c=1;
             }
             else if(c+(asb.charAt(i)-'0')+(bsb.charAt(i)-'0')==2){
-                sb.insert(0,0);
+                sb.append(0);
                 c=1;
             }
             else if(c+(asb.charAt(i)-'0')+(bsb.charAt(i)-'0')==1){
-                sb.insert(0,1);
+                sb.append(1);
                 c=0;
             }
             else{
-                sb.insert(0,0);
+                sb.append(0);
                 c=0;
             }
             i--;
         }
         if(c==1){
-            sb.insert(0,1);
+            sb.append(1);
+        }
+        for(i=0;i<sb.length()/2;i++){
+            char temp=sb.charAt(i);
+            sb.setCharAt(i,sb.charAt(sb.length()-1-i));
+            sb.setCharAt(sb.length()-1-i,temp);
         }
         return sb.toString();
     }
