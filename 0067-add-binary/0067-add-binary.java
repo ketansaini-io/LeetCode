@@ -5,14 +5,18 @@ class Solution {
         StringBuilder bsb= new StringBuilder(b);
         int c=0;
         if(asb.length()>bsb.length()){
+            bsb.reverse();
             while(bsb.length()!=asb.length()){
-                bsb.insert(0,'0');
+                bsb.append('0');
             }
+            bsb.reverse();
         }
         else if(b.length()>a.length()){
+            asb.reverse();
             while(bsb.length()!=asb.length()){
-                asb.insert(0,'0');
+                asb.append('0');
             }
+            asb.reverse();
         }
         int i=asb.length()-1;
         while(i>=0){
@@ -37,11 +41,7 @@ class Solution {
         if(c==1){
             sb.append(1);
         }
-        for(i=0;i<sb.length()/2;i++){
-            char temp=sb.charAt(i);
-            sb.setCharAt(i,sb.charAt(sb.length()-1-i));
-            sb.setCharAt(sb.length()-1-i,temp);
-        }
+        sb.reverse();
         return sb.toString();
     }
 }
