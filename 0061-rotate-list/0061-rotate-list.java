@@ -28,7 +28,7 @@ class Solution {
             temp=temp.next;
                     }
         while(k>=len){
-            k-=len;
+            k%=len;
         }
         if(k==0){
             return head;
