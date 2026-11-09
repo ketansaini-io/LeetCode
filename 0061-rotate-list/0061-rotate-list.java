@@ -20,44 +20,26 @@ class Solution {
         if(len==0||k==0){
             return head;
         }
-        int []arr=new int[len];
-        temp=head;
-        while(temp!=null){
-            arr[i]=temp.val;
-            i++;
-            temp=temp.next;
-                    }
         while(k>=len){
             k%=len;
         }
         if(k==0){
             return head;
         }
-        
+        ListNode end=head;
+        while(end.next!=null){
+            end=end.next;
+        }
+         i=0;
         temp=head;
-        i=0;
-        while(temp!=null){
-            temp.val=arr[i];
-            i++;
+        while(i<len-1-k){
             temp=temp.next;
-        }
-        int []marr=new int[len];
-        int j=0;
-        for(i=arr.length-k;i<arr.length;i++){
-         marr[j]=arr[i];
-         j++;
-        }
-        for(i=0;i<arr.length-k;i++){
-            marr[j]=arr[i];
-            j++;
-        }
-        temp=head;
-        i=0;
-        while(temp!=null){
-            temp.val=marr[i];
             i++;
-            temp=temp.next;
         }
+        ListNode nhead=temp.next;
+        temp.next=null;
+        end.next=head;
+        head=nhead;
         return head;           
     }
 }
